@@ -1,0 +1,7 @@
+build/tmp/*
+build/downloads/*
+build/workspace/*
+build/cache/*
+build/sstate-cache/*
+build/conf/templateconf.cfg
+build/bitbake.lock
